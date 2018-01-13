@@ -1,4 +1,7 @@
+require 'pry'
+
 def third_challenge
+  binding.pry
   epic_tragedy = {
    :montague => {
       :patriarch => {name: "Lord Montague", age: "53"},
