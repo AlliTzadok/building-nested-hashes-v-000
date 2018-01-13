@@ -17,13 +17,10 @@ def fourth_challenge
         {name: "Steven", age: "30", attitude: "confused"},
         {name: "Nurse", age: "44", attitude: "worried"}
       ]
+      epic_tragedy[:montague][:hero][:status] = "dead"
+      epic_tragedy[:capulet][:heroine][:status] = "dead"
    }
-   epic_tragedy[:montague][:hero][:status] = "dead"
-   epic_tragedy[:capulet][:heroine][:status] = "dead"
+
 }
-
-
-
-
 
 end
