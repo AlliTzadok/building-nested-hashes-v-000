@@ -21,8 +21,8 @@ def fourth_challenge
         {name: "Nurse", age: "44", attitude: "worried"}
       ]
    }
-   binding.pry
 }
+binding.pry
 epic_tragedy[:montague][:hero][:status] = "dead"
 epic_tragedy[:capulet][:heroine][:status] = "dead"
 
