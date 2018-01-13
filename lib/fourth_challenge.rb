@@ -10,9 +10,7 @@ def fourth_challenge
         {name: "Benvolio", age: "17", attitude: "worried"},
         {name: "Mercutio", age: "18", attitude: "hot-headed"}
       ]
-    }
-      binding.pry
-  ,
+    },
 
    :capulet => {
       :patriarch => {name: "Lord Capulet", age: "50"},
@@ -27,3 +25,4 @@ def fourth_challenge
 epic_tragedy[:montague][:hero][:status] = "dead"
 epic_tragedy[:capulet][:heroine][:status] = "dead"
 end
+binding.pry 
