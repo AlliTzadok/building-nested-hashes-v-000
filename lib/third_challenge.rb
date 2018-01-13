@@ -8,7 +8,6 @@ def third_challenge
       :hero => {name: "Romeo", age: "15", status: "alive"},
       :hero_friends => []
    },
-   binding.pry
    :capulet => {
       :patriarch => {name: "Lord Capulet", age: "50"},
       :matriarch => {name: "Lady Capulet", age: "51"},
@@ -16,6 +15,7 @@ def third_challenge
       :heroine_friends => []
    }
   }
+  binding.pry
 
 
 end
