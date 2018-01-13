@@ -1,4 +1,4 @@
-require 'pry'
+
 
 def third_challenge
   epic_tragedy = {
@@ -15,7 +15,5 @@ def third_challenge
       :heroine_friends => []
    }
   }
-  binding.pry
-
 
 end
