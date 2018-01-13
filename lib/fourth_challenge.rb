@@ -11,6 +11,7 @@ def fourth_challenge
         {name: "Mercutio", age: "18", attitude: "hot-headed"}
       ]
    },
+   binding.pry
    :capulet => {
       :patriarch => {name: "Lord Capulet", age: "50"},
       :matriarch => {name: "Lady Capulet", age: "51"},
