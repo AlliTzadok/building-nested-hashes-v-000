@@ -22,7 +22,7 @@ def fourth_challenge
       ]
    }
 }
-binding.pry
+
 epic_tragedy[:montague][:hero][:status] = "dead"
 epic_tragedy[:capulet][:heroine][:status] = "dead"
 
